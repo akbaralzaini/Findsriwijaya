@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Find Sriwijaya</string>
+    <string name="nav_home">home</string>
+    <string name="nav_notification">Notifikasi</string>
+    <string name="nav_pesan">pesan</string>
+    <string name="nav_setting">setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contoh">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nos</string>
+    <string name="notif_ex">Ust. andrian mualai mengajar</string>
+    <string name="ex_notif">Ustad Andrian mulai menjar Alquran untuk Reza rio saputa sampai jam 15.00 WIB</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="daftar_pengajar">Daftar Pengajar</string>
+    <string name="umur">19 tahun</string>
+    <string name="alamat">Jl. nusantara gang buntu</string>
+    <string name="tarif">Rp. 100.000/bulan</string>
+    <string name="cono">Ust. Akbar Alzaini</string>
+    <string name="example_blog">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="example_blog1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="bidata">belajar bahasa pemerograman semenjak duduk di bangku kuliah, kini telah banyak membuat aplikasi-aplikasi berbasis mobile maupun Pc.</string>
+    <string name="cohh">Al Quran Al-Akbar atau yang juga sering disebut Al Quran Raksasa yang berada di kota Palembang beralamat di Pondok Pesantren Al Ihsaniyah Gandus Palembang. Terdapat 30 juz ayat suci Al-Quran yang berhasil dipahat/diukir ala khas Palembang dalam lembar kayu dan menghabiskan kurang lebih 40 meter kubik kayu tembesu dengan biaya tidak kurang Rp 2 miliar, dimana masing-masing lembar ukuran halamannya 177 x 140 x 2,5 sentimeter dan tebal keseluruhannya termasuk sampul mencapai 9 meter.</string>
+    <string name="asin">Pesta Olahraga Asia 2018 (bahasa Inggris: 2018 Asian Games, XVIII Asiad), secara resmi dikenal sebagai Pesta Olahraga Asia ke-18 dan Jakarta-Palembang 2018, adalah ajang olahraga wilayah Asia yang diselenggarakan dari 18 Agustus sampai 2 September 2018 di Indonesia, tepatnya di kota Jakarta dan Palembang. Pertama kalinya, Pesta Olahraga Asia diselenggarakan secara bersamaan di dua kota; ibukota Indonesia Jakarta (yang menjadi tuan rumah Pesta Olahraga Asia untuk pertama kalinya pada tahun 1962), dan Palembang, ibukota dari provinsi Sumatera Selatan. Acara diadakan di dan sekitar dua kota tersebut, termasuk lokasi di Bandung dan beberapa tempat di provinsi Jawa Barat dan Banten. Upacara pembukaan dan penutupan Pesta Olahraga Asia 2018 diadakan di Stadion Utama Gelora Bung Karno, Jakarta. eSports dan polo kano pertama kalinya disertakan sebagai olahraga eksibisi. Tiongkok memimpin perolehan medali untuk kesepuluh kalinya berturut-turut. Korea Utara dan Korea Selatan berpawai di bawah Bendera Penyatuan Korea pada upacara pembukaan dan, untuk pertama kalinya, berkompetisi sebagai tim bersatu dalam beberapa nomor pertandingan; mereka juga memenangkan satu dan medali emas pertama sebagai tim yang bersatu. Perenang Jepang Rikako Ikee diumumkan sebagai atlet terbaik (MVP) untuk pesta olahraga ini. Dalam ajang olahraga ini 6 rekor dunia, 18 rekor Asia, dan 86 rekor Pesta Olahraga Asia berhasil dipecahkan.</string>
+</resources>
